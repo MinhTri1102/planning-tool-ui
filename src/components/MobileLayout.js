@@ -1,5 +1,5 @@
 ﻿import React, { useState } from 'react'
-import { AppOutline, UnorderedListOutline, UserOutline } from 'antd-mobile-icons'
+import { AppOutline, UnorderedListOutline, UserOutline } from '@antd-mobile/icons'
 import { TabBar, Card, List } from 'antd-mobile'
 
 // Dữ liệu giả, sau này sẽ được truyền từ App.js
